@@ -18,7 +18,7 @@ I'm the independent-builder identity behind **Vex-R**, with the philosophy:
 
 > **MAKE SOMETHING, MAKE IT MATTER, MAKE MONEY**
 
-I also build with **TheAPIcalypse**, the team behind **Weighnix**, which received the **Vultr Best Build** recognition at **DSU DevHack 2.0**. My contribution to the project included **hardware development and cloud assistance**.
+I also build with **TheAPIcalypse**, the team behind **Weighnix**, which received the **Vultr Best Build** award at **DSU DevHack 2.0**. My contribution to the project included **hardware development and cloud assistance**.
 
 Outside software, I'm also a musician and emcee, working with **tabla, keyboard/piano, and flute**.
 
@@ -53,13 +53,13 @@ Here are some of my featured works:
 
 ---
 
-## 🏆 Recognition
+## 🏆 Hack-Marathon 
 
-**DSU DevHack 2.0 — Vultr Best Build**
+**DSU DevHack 2.0 — Vultr Best Build Award**
 
 **Team:** TheAPIcalypse  
 **Project:** Weighnix — Smart Home Cylinder Management System  
-**Contribution:** Hardware Developer + Cloud Assistant
+**Contribution:** Team Lead + Hardware Developer + Cloud Assistant
 
 ---
 
