@@ -24,7 +24,6 @@ Outside software, I'm also a musician and emcee, working with **tabla, keyboard/
 
 I'm passionate about **software development, AI, cloud technology, product engineering, and learning by building**.
 
-
 ---
 
 ## 🚀 Projects
@@ -34,6 +33,8 @@ Here are some of my featured works:
 | Project | Description | Live Demo |
 | --- | --- | --- |
 | **Janani Stores** | Online ordering and self-pickup platform for Janani Stores, with product availability, ordering, payments, and admin workflows. | 🔗 [View Website](https://janani-stores.vercel.app) |
+| **FeelSafe** | Anonymous feedback and response platform designed for creating secure feedback sessions, collecting responses, and managing feedback through dedicated dashboards. | 🔗 [View Website](https://feelsafe-sigma.vercel.app) |
+| **Vanish Drop** | Privacy-focused file sharing platform for temporary file transfers, designed around simple sharing and automatic disappearance of uploaded files. | 🔗 [View Website](https://vanish-drop-av.vercel.app) |
 | **Nritya Vidyanilaya** | Dance-school management web application for administration and student workflows. | 🔗 [View Website](https://nrityadvg.vercel.app) |
 | **Nova Assistant** | Personal AI assistant concept for PC interaction, speech, memory, and automation. | — |
 | **Genesis** | Experimental engineering project focused on building and exploring a modern digital product. | 🔗 [View Website](https://genesis-lab-nu.vercel.app) |
@@ -53,7 +54,7 @@ Here are some of my featured works:
 
 ---
 
-## 🏆 Hack-Marathon 
+## 🏆 Hack-Marathon
 
 **DSU DevHack 2.0 — Vultr Best Build Award**
 
@@ -92,7 +93,6 @@ Government High School, Siddapura
 * 𝕏 X: *https://x.com/Abhinandan43024*
 * 📷 Photography: *https://abhivocopedia.github.io/Abhis_Unscripted-Photography/*
 * ✉️ Email: *[abhivocopedia@gmail.com](mailto:abhivocopedia@gmail.com)*
-
 
 ---
 
